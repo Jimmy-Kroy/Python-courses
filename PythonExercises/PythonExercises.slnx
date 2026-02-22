@@ -1,11 +1,14 @@
 <Solution>
-  <Project Path="foundryAIPromptClient/foundryAIPromptClient.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="AnalyzeTextAIClient/AnalyzeTextAIClient.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="1be4df75-927c-4091-a0df-cbe737c1de69">
     <Build Project="false" />
   </Project>
-  <Project Path="foundryAIPromptClientV2/foundryAIPromptClientV2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="foundryAIPromptClient/foundryAIPromptClient.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="3f866e5a-26ff-4dcf-a252-a116a45b0d78">
     <Build Project="false" />
   </Project>
-  <Project Path="VisualizeWHOData/VisualizeWHOData.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52">
+  <Project Path="foundryAIPromptClientV2/foundryAIPromptClientV2.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="2a23013d-df50-4ad8-9376-6d772fd0e04d">
+    <Build Project="false" />
+  </Project>
+  <Project Path="VisualizeWHOData/VisualizeWHOData.pyproj" Type="888888a0-9f3d-457c-b088-3a5042f75d52" Id="ab6ae896-acc1-4fc9-95a5-11fafe8aed3e">
     <Build Project="false" />
   </Project>
 </Solution>
